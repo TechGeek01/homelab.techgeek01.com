@@ -1,0 +1,6 @@
+# Image scripts
+img/original.png
+img/convert-diagram.bat
+
+# Diagram temp files
+download/.$*

@@ -1,0 +1,365 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Titillium+Web:wght@600&display=swap');
+
+@property --gradient-angle {
+	syntax: '<angle>';
+	initial-value: 0deg;
+	inherits: false;
+}
+
+:root {
+	/* General colors */
+	--clr-bg1: #202018;
+	--clr-bg2: #282824;
+	--clr-bg3: #323230;
+
+	--clr-brand: #c1df11;
+	--clr-bg: #222;
+	--clr-text: #eee;
+	--clr-text-dark: #363333;
+	--clr-border: #696966;
+
+	--clr-button: #ff8800;
+	--clr-button-hover: #ff9906;
+	--clr-button-coffee: #ffdd00;
+	--clr-button-coffee-hover: #ffea00;
+
+	--clr-faded: #696966;
+
+	--clr-1: #00e3f6;
+	--clr-2: #ce00bd;
+	--clr-3: #ec004d;
+}
+
+/*
+ * CSS Reset
+ */
+
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+/* Remove default margin */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+figure,
+blockquote,
+dl,
+dd {
+	margin: 0;
+}
+
+/* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
+ul[role='list'],
+ol[role='list'] {
+	list-style: none;
+}
+
+/* Set core root defaults */
+html:focus-within {
+	scroll-behavior: smooth;
+}
+
+/* Set core body defaults */
+body {
+	min-height: 100vh;
+	text-rendering: optimizeSpeed;
+	line-height: 1.5;
+}
+
+/* A elements that don't have a class get default styles */
+a:not([class]) {
+	text-decoration-skip-ink: auto;
+}
+
+/* Make images easier to work with */
+img,
+picture {
+	max-width: 100%;
+	display: block;
+}
+
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+	font: inherit;
+}
+
+/* Remove all animations, transitions and smooth scroll for people that prefer not to see them */
+@media (prefers-reduced-motion: reduce) {
+	html:focus-within {
+	scroll-behavior: auto;
+	}
+
+	*,
+	*::before,
+	*::after {
+		animation-duration: 0.01ms !important;
+		animation-iteration-count: 1 !important;
+		transition-duration: 0.01ms !important;
+		scroll-behavior: auto !important;
+	}
+}
+
+/*
+ * Global styles
+ */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: linear-gradient(45deg, var(--clr-bg1) 10%, var(--clr-bg2) 95%) fixed;
+	background-size: 250%;
+	color: var(--clr-text);
+	font-family: "Roboto Condensed", sans-serif;;
+	font-size: 1.2rem;
+	font-weight: 400;
+	animation: bg-animation 20s infinite alternate;
+	height: 100%;
+	overflow-x: hidden;
+}
+
+@keyframes bg-animation {
+	0% {
+		background-position: bottom left;
+	}
+	100% {
+		background-position: top right;
+	}
+}
+
+.noise {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	margin: -8rem;
+	z-index: -5;
+	background: url(../img/noise.svg) repeat left top;
+	mix-blend-mode: multiply;
+}
+
+/*
+ * Layout & general styling
+ */
+
+#wrapper {
+	background: var(--clr-bg);
+	color: var(--clr-text);
+	padding: 1em 2em;
+}
+
+section.preview {
+	border: 1px solid var(--clr-border);
+	border-radius: 1em;
+	overflow: hidden;
+}
+
+@media screen and (min-width: 900px) {
+	body {
+		padding-inline: 8rem;
+	}
+	#wrapper {
+		margin: 8rem auto;
+		padding-inline: 3em;
+		max-width: 1650px;
+		border-radius: 2rem;
+		position: relative;
+	}
+
+	#wrapper::before,
+	#wrapper::after {
+		content: '';
+		position: absolute;
+		inset: -0.7rem;
+		z-index: -1;
+		background: conic-gradient(
+			from var(--gradient-angle),
+			var(--clr-1),
+			var(--clr-2),
+			var(--clr-3),
+			var(--clr-2),
+			var(--clr-1));
+		border-radius: inherit;
+		animation: rotation 20s linear infinite;
+	}
+
+	#wrapper::after {
+		filter: blur(3.5rem);
+	}
+
+	section.preview {
+		margin-inline: 4em;
+	}
+	section.preview:has(input[type=checkbox]:checked) {
+		margin-inline: calc(-3em - 8rem);
+	}
+}
+
+#controls {
+	margin-block: 0.75em;
+	flex-wrap: wrap;
+}
+#controls .control {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 0.5em 1.2em;
+	text-align: center;
+}
+#controls .icon {
+	display: flex;
+	align-items: center;
+	font-size: 1.2em;
+}
+#controls .tip {
+	font-size: 0.75em;
+	color: var(--clr-faded);
+	margin-bottom: 0.5em;
+}
+#controls .icon .material-symbols-outlined {
+	font-size: 3em;
+	color: #eee;
+}
+
+blockquote {
+	display: inline-block;
+	padding: 0.7em 1.2em;
+	background: var(--clr-bg3);
+	border: 1px solid var(--clr-border);
+	border-left: 5px solid var(--clr-brand);
+	border-top-right-radius: 0.5em;
+	border-bottom-right-radius: 0.5em;
+}
+
+div.list {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5em;
+}
+div.list .item {
+	max-width: 900px;
+	margin-inline: auto;
+	display: flex;
+	flex-direction: column;
+}
+div.list .item .details {
+	display: flex;
+	align-items: center;
+}
+div.list .item .summary {
+	flex: 1;
+	font-size: 1rem;
+	color: var(--clr-faded);
+	padding-inline: 3em 1em;
+}
+div.list .download .button {
+	padding: 0.375rem 0.75rem;
+}
+
+h1, h2 {
+	text-align: center;
+	font-style: italic;
+}
+
+h1 {
+	color: var(--clr-brand);
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 4em;
+	font-weight: 600;
+	font-style: italic;
+	margin-block: 0.5em;
+}
+
+.version {
+	font-family: 'Fira code', monospace;
+	font-weight: 400;
+	letter-spacing: -0.1em;
+	font-size: 0.6em;
+	color: var(--clr-faded);
+}
+
+h1 + h2 {
+	margin-top: -0.75em;
+}
+
+section {
+	margin-block: 2em;
+}
+
+p {
+	margin-block: 1em;
+}
+
+ol, ul {
+	padding-inline-start: 2em;
+}
+
+div.flex {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+div.flex > * {
+	margin-inline: 1rem;
+}
+
+a.button {
+	display: flex;
+	background: var(--clr-button);
+	border-radius: 0.2rem;
+	box-shadow: 0 0 0.1rem 0.1rem rgba(0, 0, 0, 0.6);
+	color: var(--clr-text);
+	font-size: 1.2rem;
+	font-weight: bold;
+	font-variant: small-caps;
+	padding: 0.5em 1em;
+	transition: background 0.1s ease;
+	align-items: center;
+}
+a.button, a.button:hover, a.button:active {
+	text-decoration: none;
+}
+a.button:hover {
+	background: var(--clr-button-hover);
+}
+
+a.button.coffee {
+	padding: 1em;
+	background: var(--clr-button-coffee);
+}
+a.button.coffee:hover {
+	background: var(--clr-button-coffee-hover);
+}
+a.button.coffee img {
+	height: 3em;
+}
+
+a.button .material-symbols-outlined {
+	font-size: 4.5em;
+	margin-top: -0.2em;
+}
+a.button.fancy div {
+	margin-left: 0.5em;
+	padding-inline: 0.3em;
+}
+
+/*
+ * Keyframes
+ */
+
+@keyframes rotation {
+	0% { --gradient-angle: 0deg; }
+	100% { --gradient-angle: 360deg; }
+}
