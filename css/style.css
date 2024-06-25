@@ -374,7 +374,8 @@ nav {
 	list-style: none;
 	column-gap: 1.5em;
 	justify-content: center;
-	margin-bottom: 0.5em;
+	margin-top: 1em;
+	margin-bottom: 1.25em;
 }
 
 /*
@@ -506,7 +507,7 @@ footer.right::before {
 	transform-origin: bottom left;
 	transform: skewY(calc(-1 * var(--wedge-angle)));
 }
-footer .links {
+footer nav {
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: row;
