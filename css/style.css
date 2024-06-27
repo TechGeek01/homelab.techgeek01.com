@@ -485,7 +485,12 @@ footer {
 	width: 100vw;
 	left: 50%;
 	right: 50%;
-	margin: calc(var(--wedge-margin) * 2) -50vw 0;
+	/* Margin normally --wedge-margin. Since the angle is provided on the footer via
+	the ::before pseudo class, and the pseudoelement sticks out past the footer itself,
+	the extra overlap needs to be added. This extra margin needed is half of the height
+	of the pseudoelement (--wedge-height), since the midpoint of it is on the edge of
+	the footer, effectively cutting that height in half. */
+	margin: calc(var(--wedge-margin) + var(--wedge-height) / 2) -50vw 0;
 	padding: 0 max(2em, calc((100vw - var(--content-width)) / 2 + 2em)) 2em;
 }
 footer::before {
