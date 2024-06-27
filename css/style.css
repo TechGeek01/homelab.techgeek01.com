@@ -320,7 +320,7 @@ a.button {
 	display: flex;
 	background: var(--clr-button);
 	border-radius: 0.2rem;
-	box-shadow: 0 0 0.1rem 0.1rem rgba(0, 0, 0, 0.6);
+	box-shadow: 0 0 0.5rem var(--clr-shadow);
 	color: var(--clr-text);
 	font-size: 1.2rem;
 	font-weight: bold;
