@@ -91,6 +91,13 @@
     "title": "CloudBerry"
   },
   {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(ZVDLDsIgEPwark0FLx5N1ZP/YNZCKRFYAq3Vv3cpGoMmQHZmH8wsE10aISjGW0hB9RMTB8b5HaKBqyWaU2Ys5Ia3BXtwqlCdxVkOFmIecEaNpWCpGsSRtXuW45aJbsCodMTZyyrxSRsHOg9LsS9DxmkKiQmqO9GZg0WQzWJuxilpoMGoic44ZExxj86hTxTt8t3S85V5ySKb4HUR+ih/vH09K7T8uP7dQhZUWyPmz93KlhWvxAs=);labelBackgroundColor=none;sketch=0;fontFamily=Titillium Web;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DTitillium%2BWeb;fontSize=14;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "Cloudflare"
+  },
+  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(fVHLTsQwDPyaHBuFJIvKEXXhhMRt724b0ojmoaTdXf4epwahrgApj/HMOLIdproyQTJMCijJDAtTRyblGbKDfkZaojIReScFxQG8IepoegcBqZdoI4mXnVk9MfHIKhY/QHVvMRub4xrGnePG9+12HmytsOSBHp+WJRWm0PeMa01zhJFf3LvzZnTAY7ZI1zjVGPEQvY+hIFqm1fd439ddj9dkwozVN+PWy0nycq7putXp2vyq8hQsNXuleh74oSXig4hGcr0fhxC81Tfj1Pwrq/bxzxxUh4Y/RoZgk+kXN+UT);labelBackgroundColor=none;glass=0;container=1;collapsible=0;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
     "h": 120,
