@@ -441,6 +441,7 @@ header {
 section.preview {
 	border: 1px solid var(--clr-accent);
 	border-radius: 1em;
+	box-shadow: 0 0 1rem var(--clr-shadow);
 	overflow: hidden;
 }
 section.preview img {
