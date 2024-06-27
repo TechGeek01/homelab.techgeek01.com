@@ -8,3 +8,4 @@ img/convert-diagram.bat
 
 # Diagram temp files
 download/.$*
+download/*/.$*
