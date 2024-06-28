@@ -500,10 +500,14 @@ footer::before {
 	position: relative;
 	background: inherit;
 	margin-inline: calc(-1 * max(2em, ((100vw - var(--content-width)) / 2 + 2em)));
-	height: var(--wedge-height);
+	/* Chromium browsers leave an ugly edge on the bottom of the pseudoelement where the
+	shadow would be. Fix is to add a few pixels to the height, and then clip that off of
+	the bottom to remove the ugly edge caused by the bad antialiasing of the shadow. */
+	height: calc(var(--wedge-height) + 5px);
 	z-index: -1;
 	box-shadow: 0 0 var(--shadow-spread) var(--clr-shadow);
-	clip-path: inset(calc(-1 * var(--shadow-spread)) 0 0 0);
+	clip-path: inset(calc(-1 * var(--shadow-spread)) 0 5px 0);
+	-webkit-backface-visibility: hidden;
 }
 footer.left::before {
 	transform-origin: bottom right;
