@@ -34,7 +34,7 @@
 	--clr-nav-link: #aaa;
 	--clr-nav-link-active: #333;
 	--clr-link: var(--clr-accent);
-	--clr-link-active: var(--clr-accent);
+	--clr-link-active: #ff9d00;
 	--clr-link2: var(--clr-wedge-link);
 	--clr-link2-active: var(--clr-wedge-link-active);
 	--clr-wedge-text: #222;
