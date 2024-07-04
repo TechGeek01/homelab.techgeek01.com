@@ -35,6 +35,8 @@
 	--clr-nav-link-active: #333;
 	--clr-link: var(--clr-accent);
 	--clr-link-active: var(--clr-accent);
+	--clr-link2: var(--clr-wedge-link);
+	--clr-link2-active: var(--clr-wedge-link-active);
 	--clr-wedge-text: #222;
 	--clr-wedge-link: #666;
 	--clr-wedge-link-active: var(--clr-bg1);
@@ -271,7 +273,7 @@ section + p {
 	margin-top: 1em;
 }
 
-nav a,
+a:not(:has(img)):not(.button),
 .link-placeholder {
 	display: inline-block;
 	position: relative;
@@ -280,14 +282,14 @@ nav a,
 	color: var(--clr-link);
 	transition: color var(--transition-duration) var(--transition-curve-default);
 }
-nav a:focus,
-nav a:hover {
+a:not(:has(img)):not(.button):focus,
+a:not(:has(img)):not(.button):hover {
 	color: var(--clr-link-active);
 }
-nav a:focus {
+a:not(:has(img)):not(.button):focus {
 	outline: none;
 }
-nav a::after,
+a:not(:has(img)):not(.button)::after,
 .link-placeholder::after {
 	content: '';
 	position: absolute;
@@ -300,8 +302,8 @@ nav a::after,
 	transform-origin: right;
 	transition: transform var(--transition-duration) ease-in;
 }
-nav a:hover::after,
-nav a:focus::after {
+a:not(:has(img)):not(.button):hover::after,
+a:not(:has(img)):not(.button):focus::after {
 	transform: scaleX(1);
 	transform-origin: left;
 }
@@ -336,6 +338,16 @@ a.button:hover {
 	background: var(--clr-button-hover);
 }
 
+.color a:not(:has(img)):not(.button) {
+	color: var(--clr-link2) !important;
+}
+.color a:not(:has(img)):not(.button):focus,
+.color a:not(:has(img)):not(.button):hover {
+	color: var(--clr-link2-active) !important;
+}
+.color a:not(:has(img)):not(.button)::after {
+	background: var(--clr-link2-active) !important;
+}
 .color a.button {
 	background: var(--clr-button-color);
 }
