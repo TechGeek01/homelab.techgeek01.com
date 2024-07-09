@@ -10,8 +10,11 @@
 	 */
 
 	/* General colors */
-	--clr-bg1: #201e1e;
-	--clr-bg2: #3b3631;
+	--clr-bg1: #242120;
+	--clr-bg1-25: #292827;
+	--clr-bg1-50: #2e2c2a;
+	--clr-bg1-75: #36322d;
+	--clr-bg2: #393732;
 	--clr-bg1-alt: #ff7300;
 	--clr-bg2-alt: #ff8800;
 	--clr-bg-alt-text: #282424;
@@ -180,7 +183,7 @@ select {
 }
 
 body {
-	background: linear-gradient(45deg, var(--clr-bg1) 10%, var(--clr-bg2) 95%) fixed;
+	background: linear-gradient(45deg, var(--clr-bg1) 10%, var(--clr-bg1-25) 31.25%, var(--clr-bg1-50) 52.5%, var(--clr-bg1-75) 73.75%, var(--clr-bg2) 95%) fixed;
 	background-size: 250%;
 	color: var(--clr-text);
 	font-family: "Roboto", sans-serif;;
@@ -199,13 +202,31 @@ body {
 	}
 }
 
-.noise {
+.noise, .noise::after {
 	position: fixed;
 	width: 100%;
 	height: 100%;
 	z-index: -5;
-	background: url(../img/noise.svg) repeat left top;
+	background: url(../img/noise.svg) repeat;
 	mix-blend-mode: multiply;
+}
+.noise {
+	background-position: top left;
+	animation: noise-animation 19s infinite alternate;
+}
+.noise::after {
+	content: '';
+	background-position: bottom right;
+	animation: noise-animation 21s infinite alternate-reverse;
+}
+
+@keyframes noise-animation {
+	0% {
+		background-position: top left;
+	}
+	100% {
+		background-position: bottom right;
+	}
 }
 
 /*
