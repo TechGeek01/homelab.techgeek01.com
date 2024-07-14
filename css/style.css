@@ -486,6 +486,7 @@ div.list {
 	flex-direction: column;
 	gap: 0.5em;
 	margin-inline: auto;
+	width: fit-content;
 
 }
 div.list .item {
