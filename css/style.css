@@ -485,19 +485,20 @@ div.list {
 	display: flex;
 	flex-direction: column;
 	gap: 0.5em;
+	margin-inline: auto;
+
 }
 div.list .item {
 	max-width: 900px;
-	margin-inline: auto;
-	display: flex;
-	flex-direction: column;
-}
-div.list .item .details {
 	display: flex;
 	align-items: center;
 }
-div.list .item .summary {
+div.list .item .details {
+	display: flex;
+	flex-direction: column;
 	flex: 1;
+}
+div.list .item .summary {
 	font-size: 1rem;
 	color: var(--clr-faded);
 	padding-inline: 3em 1em;
