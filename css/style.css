@@ -264,6 +264,7 @@ body {
 	display: flex;
 	justify-content: center;
 	gap: 1.2em;
+	flex-wrap: wrap;
 }
 
 #logo img {
