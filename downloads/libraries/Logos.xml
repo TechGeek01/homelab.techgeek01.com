@@ -168,6 +168,13 @@
     "title": "FreeNAS"
   },
   {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(ZZBBDoMgEEVPM1uDkLZx2di66q4nGCkVEwUzgLa3L0q7wCaQMO8Pw/+AqJ3GSQFn6CYlPYgLcD4j9dgOEfOo6ARLzlJtcFQJNQOSutthVkRRuNnOppYluyKuwM6wnhmI+mlJdWSDeWTCT+5H7FY/jmQaor2fHIjY18SFM3okV3S916ENTpG0xivjC2nHqIe4T4dKHMuqTF5eaczX/Durll20fdT1zdx9JH8BNpr+cQMf);labelBackgroundColor=none;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "FlareSolverr"
+  },
+  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(fVBBDoMgEHzNXg2FFzS2nvqJrSKQViCgYn9fcGsaTdOEw+zMwM4Aoo4avQTOMHrZjiAuwPmMweD9mWmeFU3kiTOaLQ6SqGayj6SxGNnNKUd62vnFFdgZCmZfIOreBamCm2y3cxx8m9sMqMqSGFp6XI+jjyCyr8mn33JUOHXGFQZn0zpbeaso1EL3PhVeuykdCh4LlyV/Qoq6LPzdJ4NVpl9elTc=);labelBackgroundColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
     "h": 120,
@@ -336,7 +343,7 @@
     "title": "Netdata"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(ZZBRDsIgDIZPw+sy4QRmuidjTNQDsImwuFECTPT2llUfmAkB+rW0/w8TTTDSKcZrGZzqIxM7xvlT+kF2I2KOGUNww2uKrZwUoaOKCfwD2fV0xv0CMAY8D6CBalPxVuxZvWX5XjPR3MEr7WG2tyLxSw+T1FlY8D01MTG6wATWtbhSShU4ZY3sKvAayYhTcXprSdXsQsx6Kmc1iXlRn6+NdxGllcm16Ty0lI/kz8FC6UcX8AE=);labelBackgroundColor=none;aspect=fixed;container=1;collapsible=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(ZZDdDoIwDIWfprcEN+XeoFwZY6I+QMG5EWUl2wB9ewvTCzDZX7/TdT0DmXuDrQKRom9VFUDuQIgeXY3lk7FgxUS4EmmMLTYqoqMKA7kHs+vpzOuF6Ol5P5CmmDvM7so9pFsYzynI/E5OaUedvc2En1w3qMfGvKtiERNC60FyXsEDewzofKLrYLqy88pVZIOyIamoYb3jKTciE5kEWfRcYh1besVqXzPvWTQsrC6tj0/PTTD58zHR+K8T+AA=);labelBackgroundColor=none;aspect=fixed;container=1;collapsible=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
     "h": 120,
     "aspect": "fixed",
@@ -525,18 +532,18 @@
     "title": "Ripe"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(ZZDBDsIgEES/Zq8NQvRuqp68+QWUIjRpgQBt9e/ddm0MNeEw+2YDM4Cok5VBA2cyBa0yiAtwPsnYyaZHzNGxBA+c0ezkoAk9vJMxIrp748mci2VxBXaGRTMQ9dNHbaIfXVsYm90N0ixJUlR0ic05JBC4d8MT5VyZLtuxGZOOyrusXa6UH9DbgvxEqyfd+4CKst348VQFZyjlix74FnoX07yru6+/pCl7IfmrtlL62xV8AA==);labelBackgroundColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 120,
-    "h": 120,
-    "aspect": "fixed",
-    "title": "Sonarr"
-  },
-  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(ZZDNDoMgEISfhqtBiH9Ha9ukSW99AIJK1URZAqhtn74o9qBNODDfbGBmES1My5VABHOjRGURPSNCJq47XvYOE+e0HoYEey35IDx65Cf5KWvH7tCAd+fdNL0gnKPljhEtnqBFo2GU9c742d3AmyWK0ZV/pLVWGUTd3NWdWkyiByV0wM1oLOiggsHxUfXA61sF0jiFMcEsyzIWRkkaxUkaYrblZCSKAyUbH/Tl/9hKvXdqPlQ+rmAJtK/myF+7lfr9ruAL);labelBackgroundColor=none;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
     "h": 120,
     "aspect": "fixed",
     "title": "sabnzbd"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(ZZDBDsIgEES/Zq8NQvRuqp68+QWUIjRpgQBt9e/ddm0MNeEw+2YDM4Cok5VBA2cyBa0yiAtwPsnYyaZHzNGxBA+c0ezkoAk9vJMxIrp748mci2VxBXaGRTMQ9dNHbaIfXVsYm90N0ixJUlR0ic05JBC4d8MT5VyZLtuxGZOOyrusXa6UH9DbgvxEqyfd+4CKst348VQFZyjlix74FnoX07yru6+/pCl7IfmrtlL62xV8AA==);labelBackgroundColor=none;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "Sonarr"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(fVFBDsIgEHwNxxKEWL2aqidvvgAr0iZtl0AV+3uXrtXUqAkJszMDmQGmilBpZ5gUOjhT9kxtmZQ37Wt9apCWqFRELqSgudOtIeo4hAZs1llkD2CB9Djzqx0TG5aweANVXMAb6+HanWeOD9/krlttU8jgS7q86nsXmELfHleMkYcpCy+hRW48EhAgC9OekYu7FDllvdN1z2YDTXLN8+W3Lq+3yCVfEZEC/CmgCjT86IpglOkHRuUB);labelBackgroundColor=none;rounded=1;dashed=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
