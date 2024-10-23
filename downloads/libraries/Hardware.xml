@@ -278,5 +278,12 @@
     "h": 85,
     "aspect": "fixed",
     "title": "Wireless AP"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Lenovo IdeaCentre 5 - OS&amp;lt;br style=&amp;quot;font-size: 14px;&amp;quot;&amp;gt;&amp;lt;b style=&amp;quot;font-size: 14px;&amp;quot;&amp;gt;&amp;lt;font style=&amp;quot;font-size: 14px;&amp;quot; color=&amp;quot;#f5c100&amp;quot;&amp;gt;10.0.10.10&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt;\" style=\"shape=stencil(tZfvToMwFMWfhq+ktPz9aKYmJr4Esk6ISBfATX16W8p0dXh2dRWWkN7LPfxue7K0gVgNdbmVAWdd+SwDcR1wfi87tVM6dLeW5Up2Y2/yic7oR23fiUQUFjaytxHBYjMWNwG70lHzE6uN6uVjr166tZP4TDdtW6lW9Xpon5NUwAXPzW0/EPDbxeph7NWTXK5/mC5cP3H1shr18NVWMlvx5ozcBpemoOyroXmfpy/BXzU9W/IzL3ltLHcay53GeJ47jRXpQlfCQ1dowcrU3JQF3zfrsTb009MuRchx5bY0r54kDulntZNfc8W5M1kRD6ERDyJt0x2L5H9TwShZCKeIiEJUgSich/HlKFQVjJLh5SeiEFUgivAAQtPAGKkPy1JVIEoc+bAsVQWjpD4sS1WBKMmZfywaClUFo3hYHpoGxEiZD8tSVTBK4sOyVBWIkjEflqWqYJTEh2WpKhAlZ5eD0DQwRuzDslQVjFL4sCxVBaIUsQ/LUlUwSuHDslSVqlUD2v3q+A/b0MPOFhSDkxIzNwLEG2974XrZts12OJ6jjDlzFLEiLOaDz3yqiGYr1e7wn45FUl+bza+7yNwuovR7F9xpAvrA4i2kp6U/OQlPUXv4ngIf);html=1;labelPosition=center;align=left;spacingLeft=15;dashed=0;shadow=1;fillColor=#ffffff;verticalAlign=bottom;verticalLabelPosition=top;fontSize=14;spacingRight=15;perimeterSpacing=0;strokeWidth=1;fontFamily=Roboto Condensed;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"304\" height=\"132\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 304,
+    "h": 132,
+    "aspect": "fixed",
+    "title": "Lenovo IdeaCentre 5"
   }
 ]</mxlibrary>
