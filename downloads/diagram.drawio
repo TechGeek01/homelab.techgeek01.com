@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17" pages="3">
   <diagram id="TezqZf63po1DLjSW2U6N" name="Diagram">
-    <mxGraphModel dx="4474" dy="2396" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#242422" math="0" shadow="0">
+    <mxGraphModel dx="4583" dy="2459" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#242422" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3910,9 +3910,6 @@
         </mxCell>
         <mxCell id="qZwxAWDmtE2JVZlxALiE-5" value="&lt;span style=&quot;text-align: right;&quot;&gt;Dell Optiplex 3020 - Proxmox VE&lt;/span&gt;&lt;br style=&quot;text-align: right;&quot;&gt;&lt;b style=&quot;text-align: right;&quot;&gt;&lt;font color=&quot;#f5c100&quot;&gt;10.0.10.23&lt;/font&gt;&lt;/b&gt;" style="shape=stencil(vZTJDoIwEIafZq5NOwWEo0G9+gyIRUgqEMSIb28XNQFZAkY7B6b/LHwZaIGHlzQqBSDNo7MAvgHEjZBSCfuyzkopGuVyilQFlJfaFE6JZ4WbFYIVYVrgW6Br0NkUeJgUlThVxTU/tgLvcCZlXMiiUlv7NL1AtTfLvgFw11tdibhWXmOLnsn31q4D14M/1FyjTYT7yQOz5pC7hI+xM+L/i91LtH3Djuw16SH8gLg/oj8Ym0Ov8d2R2XvEabGzie+6GB0jbXPQHWf0r3GxM3ZEwvxF9DxUysdBNqq9OozwAA==);html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=1;fillColor=#ffffff;verticalAlign=middle;verticalLabelPosition=middle;fontSize=14;aspect=fixed;spacingRight=15;fontFamily=Roboto Condensed;fontColor=#EEEEEE;" parent="qZwxAWDmtE2JVZlxALiE-4" vertex="1">
           <mxGeometry x="343" y="-73" width="265" height="83" as="geometry" />
-        </mxCell>
-        <mxCell id="aeSpwo50OxayBts1OJQV-1" value="Shop To" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=16;shadow=0;dashed=0;fillColor=#ffffff;outlineConnect=0;shape=stencil(hZFRDsIgDIZPwyvBsi3h0Uy9wE6wDCaLuC4MM729QNXEuMyEpOVr/7YUJuvZtpNhIMb2apg8MIDG4hRBwMW4aC06bXzkyaeMUnEgsBDYVYKrROSRiX3k6ci6R2/OHm+j/gq8w3PweDEdOozlBdlcjoHUWlMHBqcN8TLoYNMc2Wax4OW2sh+cW2+qlNqWetOF6N1fnSj5QTdQvFpfymdvBYfi/2z0spUkWUfys9NM6RczeAI=);aspect=fixed;fontFamily=Roboto Condensed;fontColor=#EEEEEE;fontSize=14;spacingRight=0;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-1015" y="-350" width="436" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
