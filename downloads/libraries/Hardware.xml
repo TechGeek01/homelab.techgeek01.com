@@ -203,6 +203,13 @@
     "title": "Rosewill RSVL4000"
   },
   {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"strokeColor=#666666;html=1;labelPosition=left;align=right;spacingLeft=0;shadow=0;dashed=0;fillColor=#ffffff;outlineConnect=0;shape=stencil(pZNtDsIgDIZPw1/StRPl5zLdBTyBceiMKAvOTG8vo2oyXWbUhKTwlH69AUH5qVrVRiAcVwcjaC4Ql5WrA2hca2ywlbOl8YF3e74x0RIZtAwSBVJ3hBYCssC7RfnGebP17nwse46H+9R4tzdrZ11ID2xjOoGklOIKAouR4HZXNlXXR7QxGORsPHKzs3a4qNZ6PNSbdRN2l3slvnzlE2qphkV56pZKTD/3xpN9HH14BMh0VtCP0iW/CjfL51Bk32hHIHHS0y8hiS+vCkCmPQFp+od8lAfy9iQj5U8QwQ0=);fontFamily=Roboto Condensed;fontColor=#EEEEEE;fontSize=14;spacingRight=40;verticalLabelPosition=middle;verticalAlign=middle;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"160\" height=\"58.72\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 160,
+    "h": 58.72,
+    "aspect": "fixed",
+    "title": "Shop towel holder"
+  },
+  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(vZRdC8IgFIZ/jbfDeeY+LmPVddAvGMu1keVwi9W/z+lG2L6oKBE8vofj+xxBEcRVnpQMEXxJzgzBGhGyEw2TStnXsijVXoW5ybieExqh6QQfO1GrwAbhldLbCXEmJDtKcb0crESfrmopTiwVXLQ2ZtXHIQJYDx1vR4uzgvPxUqLHTKlkaa2im6kwJvhu7V77GrY+TWXaep87ihZatrldL7TIoSft2MHiDhag38cNgh/igkM/BGacF2XFnsZALF/q+NQ27qy+t56+K/Aonb2rIXX0L+qPXiHEShk8b62aj0QLDw==);html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"160\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 160,
     "h": 15,
