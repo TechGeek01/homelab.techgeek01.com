@@ -44,7 +44,7 @@
 	--clr-wedge-link: #666;
 	--clr-wedge-link-active: var(--clr-bg1);
 	--clr-footer-text: #666;
-	--text-size:  1.25rem;
+	--text-size: 1.25rem;
 	--nav-text-size: min(1rem, calc((100vw - 2rem) / 20.75));
 	--email-text-size: 2rem;
 	--intro-text-size: 4rem;
@@ -287,7 +287,7 @@ h1 {
 }
 
 p {
-	line-height: 1.4em;
+	line-height: 1.5em;
 }
 p + p,
 p + section,
