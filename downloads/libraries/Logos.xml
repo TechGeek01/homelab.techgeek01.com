@@ -238,6 +238,13 @@
     "title": "Home Assistant"
   },
   {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(ZZDLDsIgEEW/hm1Dh4V2aXzEhT8xRaRN5BEerf69tKMLagIJc+5wuQMTxzigVww4Rq9kYuLEACYMI/bPgqEoA8EWONUWjSJ0dUZ51Mv1m9OO5LlqF2fGD2w5cyaODxeUDi7beyX85NGQWQySTIaUfGSi9F3KwgkThtjoMQ25z1EF6WxSNjXSmaLnsluADrr9DijMi3y+yd9VNW/m2s65PFrHL+RvgpXSJ67gAw==);labelBackgroundColor=none;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "Homepage"
+  },
+  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(ZZBNDsIgEIVPw7apcAJTbVx4iSkikJSfABX19E47uqAmJMx8bwLvDRNDNhAV4z3kqGRh4sQ4f0CyMM2IOSqG4IH31HtwitAlOJWQXIMOpNVmVpxZf2Rr3TMx3ENSOoXF3xrhJ1sHejWSk6RHTCkxM4FzI54EtdO2mGVaskoy+KJ86WRwqE2Qi1W+2lTe2BqyNTqwHq+4TLOVWMxos4tek9Un/fIN9Wq6uou8X8FqqQ2H5C/fRmm/G/gA);labelBackgroundColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
     "h": 120,
@@ -504,6 +511,13 @@
     "title": "Python"
   },
   {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(dVHLDgIhDPwajm4QjPHq82T8BYO7yBKFIrCu/r2taOJqTHh0pqWZDkwuU6uCZoKrFHSdmVwxIa4qWnU4Iy0w0xZyLHjBXjldqMvC5gwxap+R34KBUtEPXsg143NGMWdyeYSoTYTON4PEO22dMiQnxbo0aXMOiUms2+DqwhlUU/X2ZJ1urKogGqQJB8IY1+Ac+IRRbjt3wHtKm46d7vcfmvekuEpX6iD4ZBZuo38VVfCmzHYrsl5e3Aeo/3Lq2zmaYegGMj+GPNnyLU/iAQ==);labelBackgroundColor=none;sketch=0;fontFamily=Titillium Web;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DTitillium%2BWeb;fontSize=14;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "qBittorrent"
+  },
+  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(fVFBDoIwEHxNr6S00cjRoJw8+YO11EJSaNMi6O9duhgDiSY9zM5MNjNbJsvYgNdMcIheq4HJExNihNDCzSItUGmIzAWnuYdOE3WFGkJA6uKMI3FameWZ8SObMf8CWd5d0Ca4R1+vHBvfx912YOaEMSha3gyDj0yir8KX5Jg5r3vlrMUS7agz5TrUwhKwOuR30EWByKaoldjtM98bCv2kvUu/12qaNu2315hD/CkhSzT86IsgyfQFSXkD);labelBackgroundColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
     "h": 120,
@@ -565,6 +579,20 @@
     "h": 120,
     "aspect": "fixed",
     "title": "Tailscale"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(ZZBBDsIgEEVPw7ahoIlbU3Xl0gtMEYGkhQaGVm/vtOgCTSBh3p/M/A+TXbIwaSY4pEkrZPLEhJghOugHwoIUW2AreKk9jLqgG2TMw+AIXoMJRV6qdnlm/MjWN2eye4SoTQzZ3yvhK7sRzOolRVWGWMQpMUl9FzowA0JMjXFoc5+Tjip41B4bFUbSM125k4c9523x8ixjPsZfVbX8xPqNue6s3RP5C7DR8ocbeAM=);labelBackgroundColor=none;rounded=1;dashed=1;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "Tautulli"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(ZZDLDoMgEEW/hqUNgjawbPpYddkfGHGqJlXMgH38fUdpF7YJITPn3sCdEXofWhhRKAlhRBeFPgil7kAdVDfGipU2wVzJ1A/QY0KXGoiYnH3jk/ZYefVRyJ2Yayn0/uoJG/LTUK+Er9z10MxBArn0SBvjGIRm34kP4ehDFz29ssUZNk0X26maApLzQ8Qhbpzv2amkUbawecm1s0UNWykzkFhlec6X1SVkDq/GWFNuK1On5M/06WfG16p7/GzgdyNzwvWsTP7GXWha9wLe);labelBackgroundColor=none;rounded=1;dashed=1;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "Tdarr"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(bVDBDoIwDP2aHSFjiyEeCcrJeNG7GWMCCWzLNkT/3o5iDNFkWdrX9vW9El76TlhFGBXeKhkIPxDGHsL1oh4AZlDpEMwYxVyLUSF0dZM6FxfASuMiycm0BpvmzRA/ElqQGFPCyzs0t85MutkUPuV+FG0k804iSReC9YRDXwVvnuc0wGItfCrNGBGbSKOD0gGSyQ5GNB4iRiNjRXP4BhCWrHKTKPaWZfsaxkbrlPfGpVa3qPyJS1ezr9VHuvvn63ucLMc8aty6BeTH8ILi5RfgDQ==);labelBackgroundColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
