@@ -126,6 +126,13 @@
     "title": "Docker Compose"
   },
   {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(ZZHBcoMgEIafhmMYQBL12Eniqbc+wUJAnao4gLV5+65uerCdYWbh213Y/4cV19TB7JgSkGZnMytuTKkviD2YAbHCTEdQKkHnCUZH6Bbsp4uIPlaII8b30AYqWg9NxZ2JN7btBSuuPkTXxrBMj0PiN92P0G4TpWjpki7nObEC6xpcEVbe9rlbzJJctGHKbsrcBny/eewDnYbeRIhPAgmDLqWHi9PWnCtxUdYaX0vwVkpZV8LXthRC15XE0kRSmgGl8HlqSc43TXKSgpcVoecLCa7VUbM+c6X/eserF9pUHP1A8s+SndLf7OAH);labelBackgroundColor=none;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "Docker Swarm"
+  },
+  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#eeeeee;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(bZDRCsIwDEW/Jo+Wmg7ER5n6JP5D3GpX2NrR1ql/b7uoMBT6kHtuSG4Kqo4djRpQUhx1k0DtAXGiYOnSZ4zZ6RiuUbJ2NGhG+3NVwMkbz9Z90aoOIHdQagmqvvqgTfA31y6Mj20HMiVHDA0P6VIaI6jcd8zP2CRaV6Fo9ZQlxahTzIUdDLuaVr0RozOc5MFD3pGfrFCK6l/Q742brUAGZesyfyY/J8yUf3AGLw==);labelBackgroundColor=none;aspect=fixed;fontSize=14;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
     "h": 120,
@@ -215,6 +222,13 @@
     "h": 120,
     "aspect": "fixed",
     "title": "Grocy"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(ZZBNDoMgEIVPw7IGQW23jbbpopcYkYJJBcOPbW9fdOKCmEDCfG8y8x6Et17DLAmj4GcpAuEdYWwBN0L/TpglRSMsGcXawCQRPeSgZGdFgk+rLMqfrJ3fCL2S9U0Jb1/WSeVsNEMm7PI4gVq9eCdwiA5h9oSnvns6sEAA5ws1Bh376KUT1gRpQiHslPSYbnO+NHXVMPTyxTGnsixqJL8D2f1WPI+71+vuPEUihyAbxb/cwB8=);labelBackgroundColor=none;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "HedgeDoc"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(fZBdDsIgEIRPw2MbhBOYauODl1hbBJLyE6hWb+/SbWPaRBNCdme+LLMw2WQDUTHBIUfVjUyemBBPSBZuA8oCHUPiQXDqPThF0kVZ18MwoHgNOpA9bXB5ZvzISs2/hWzuISmdwsP3G2LHrbR1oEvGnDoabsYxZiaRa/FAjLk2S5Y62xHZ1jqN96pWtgu+yq4A0WtK+qJhy1rvTTftlt5/Qnn5T3LZIPBjSSxmm35+dj4=);labelBackgroundColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
@@ -315,7 +329,7 @@
     "title": "Manjaro"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(fVFBDsIgEHwNRxuExLu29qSPoIXSJhRwoVZ/71I0pk004TA7M4GZhfAy9MIrwqgIXrWR8IowdhcwiMYgzVDpM7lnNM9WjCpT1+SrTshdnHZZnVdufib0SBKmX8DLzoHS4CYrV46N7+MeRqFTxABtvryP0QfC0VfjkfvboaNCmQf1DorWuEl24GwsrIqoe3ByauPOYMaAsxkaEPDcjSm9bBa+8FYTXucKj/zKu+5zNc2bZWyXkyL9qcRLNPxoj2CR848sygs=);labelBackgroundColor=none;rounded=1;dashed=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(bZBRD4IgFIV/DY+yK5TVY2k+1Y9AJHWlOMDSfn3grTZXGw/wnbPLOZfw1NaiV4SBsL2SjvCMMHYXphHFzWPmlRphzADfnWgVonPwZQfPTrrSqD4Wbn4ksCfhDoSnF21UZfTQlQvhIzetqEIUayQOqZ3rLeHel/tjnXCNjABoI3VXDvJKpW69IKxVzlLwY/I2RCqLKFiidcxGvoLIjfppJsNo31WYcsQP3o0mfDGgcfKvxXcHmx1NtkhCpmU7T34KzhRXPIMX);labelBackgroundColor=none;rounded=1;dashed=1;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
     "h": 120,
     "aspect": "fixed",
@@ -462,11 +476,11 @@
     "title": "pfSense"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(fVFLDoMgED0NSw1C0n1ja7rowiugIpog0AGr3r6jtGk0aRMW7xd4MxCe+044SRgV3sk6EH4hjD0F9KLSKDN0uihmjEZuxCCjVN5K5HerbHSmXZJfCT2TFdMv4HlrQSqwo2l2iUPuk+4HodZ6Hup4eReC84RjrsDTZI9TS4XUM3UW0lrbsWnBmpAaGdB3YJuxDonGjh657isQsCSuc5uWOqMIL2L9Ob7wHnPZsemwhONS1jp/xuE5Bn5MjmCz409szgs=);labelBackgroundColor=none;rounded=1;dashed=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(bZDRDoIwDEW/Zo8S6KL4alDigw/8QsExMMCWbaL+vZ1VE6LJlvSe22y9FbLwHVolIEVvVROE3AuAGV2P9UAYyOkYZpCynnBUjKpjRfpktGHntuiUB5HuRKxTIYvWOKWduU7nhfGx+xF1HMO7hh/pQrBeSOor6eg+DFgnjRlJXO1g8OypWtH1Dx9UxNaZS4wAJc4Y0FGR5VtYb2QW3c6uWjsmdtI87J3/eYd6sAKZwL8s3y3kMtkwiIMtIxL5SfmivOMXeAI=);labelBackgroundColor=none;rounded=1;dashed=1;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 120,
     "h": 120,
     "aspect": "fixed",
-    "title": "PHP"
+    "title": "PHP-FPM"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(fZBNDsIgEIVPM9sG4QSm1pVRd64REYjyE2it3t7B0Zg20YTFvPc+mBlAtMXKpIEzWZJWPYgVcH6T2cnjFW2OiSVzwRnpIL0ma+9srBTbRBMpHCew6IAtodbsW4j2HLM2OQ7hNCFm3Id2XprapGRFj9u+TwUEcms8rnHeDLlR0aPaHS5b1YUmBUMD3enOe/bHRI2zzeab1gZ/BhQtAj92weIV0/e+kic=);labelBackgroundColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
@@ -488,6 +502,13 @@
     "h": 120,
     "aspect": "fixed",
     "title": "Portainer"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(dZHNTgQhDMefhuMSFqJZj2bV0x40PoDpziAQB4rA7MfbW7brYbKa8NH+/qVpizDb6iFboRXUbIcmzJPQ+gAlwH4irEnxDNdasZ8gWkavWJsr9v1tR3iHDjnguHhgnoV6FN1Wwmw/sVhXcE7jQviVQwTXq6ll4CS+tVyFobgXWnOeEEZ5DF8h2jGAxOIIdz93n+wBY8RUyWp+jnu6dd8PdFzLrd/Th51s9pCarIeeQN+pfFr9o8ucHDd2ujYmN/cMzgzUX33fDq73sJwGkZuBXCj/ygX8AA==);labelBackgroundColor=none;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "PostgreSQL"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(ZZDBDsIgDIafhuuCsMR4NFNPHnyFDhGWuLEU2PTt7VY9MBNI6Pc37f8jdBM9jFYoCXG0Jgl9EkpNgB20T8KKFM9wpyTXA/SW0Q3D/AREgtfgAstz0a7PQh7F8pZCN4+A1mHIw70QfnLXg1u8RDQ8xKc0RqGp70IHJkiAsXJd8rnN0aIJQ7JDqkzoSc9091rWh7rW7OXFY77G30U1b2JtYy47S/dE/gKslP9wBR8=);labelBackgroundColor=none;rounded=1;dashed=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
@@ -593,6 +614,13 @@
     "h": 120,
     "aspect": "fixed",
     "title": "Tdarr"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(ZZDBDsIgDIafptcF4eTRTHfy6AvgZIyEDUKZ07e3o3pgJqRpv79p/wKqxVFHA1JojKbPoM4g5VMnp++esCRlZHiQgutZT4bRLTnvlonYNdjA6lp1qwuIE2y5ANUOIRmbwjI/KuEnu0nbzQqmnoeMOUcERX0dPeMN5sbRnq50IiUYhrzqVHJ5VBQ9OWnibNnNiwd9nb+rat3dtb9z21r7J/J3QqH8iQV8AA==);labelBackgroundColor=none;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 120,
+    "aspect": "fixed",
+    "title": "Trilium"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"fontColor=#000000;verticalAlign=middle;verticalLabelPosition=middle;labelPosition=right;align=left;html=1;outlineConnect=0;fillColor=#d6d6d6;strokeColor=#999;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=stencil(bVDBDoIwDP2aHSFjiyEeCcrJeNG7GWMCCWzLNkT/3o5iDNFkWdrX9vW9El76TlhFGBXeKhkIPxDGHsL1oh4AZlDpEMwYxVyLUSF0dZM6FxfASuMiycm0BpvmzRA/ElqQGFPCyzs0t85MutkUPuV+FG0k804iSReC9YRDXwVvnuc0wGItfCrNGBGbSKOD0gGSyQ5GNB4iRiNjRXP4BhCWrHKTKPaWZfsaxkbrlPfGpVa3qPyJS1ezr9VHuvvn63ucLMc8aty6BeTH8ILi5RfgDQ==);labelBackgroundColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
